@@ -7,10 +7,10 @@ import care3 from '../assets/image/care3.jpg'
 import care5 from '../assets/image/care5.jpg'
 
 const highlights = [
-  { label: 'Lives Impacted', value: '24,800+' },
-  { label: 'Projects Completed', value: '148' },
-  { label: 'Volunteers', value: '1,420' },
-  { label: 'Funds Raised', value: '$3.6M' },
+  { label: 'Lives Impacted', value: '4,800+' },
+  { label: 'Projects Completed', value: '48' },
+  { label: 'Volunteers', value: '20' },
+  { label: 'Funds Raised', value: '$1.6M' },
 ]
 
 const campaigns = [
@@ -35,12 +35,12 @@ const stories = [
   {
     name: 'Amina K.',
     quote: 'The mobile clinic brought needed care to our village and gave my son a chance to recover without worrying about transport costs.',
-    location: 'Lagos, Nigeria',
+    location: 'Grand Bassa, Liberia',
   },
   {
     name: 'Isaiah T.',
     quote: 'The volunteer support and community network helped my family rebuild confidence and access reliable resources again.',
-    location: 'Abuja, Nigeria',
+    location: 'Paynesville, Liberia',
   },
 ]
 
@@ -48,12 +48,12 @@ const events = [
   {
     date: '12 Sep',
     title: 'Community Wellness Day',
-    meta: 'Lagos • 9:00 AM',
+    meta: 'Paynesville • 9:00 AM',
   },
   {
     date: '26 Sep',
     title: 'Impact Breakfast Briefing',
-    meta: 'Abuja • 8:30 AM',
+    meta: 'Monrovia • 8:30 AM',
   },
   {
     date: '03 Oct',
